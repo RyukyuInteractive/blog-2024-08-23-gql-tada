@@ -1,15 +1,13 @@
 # blog-pokemon-tada-graphql
 
-To install dependencies:
-
 ```bash
-bun install
+$ bun i
 ```
 
-To run:
+## 実行する
 
 ```bash
-bun run index.ts
+$ bun run app/fetch.ts
+$ bun run app/apollo.ts
 ```
 
-This project was created using `bun init` in bun v1.1.22. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
